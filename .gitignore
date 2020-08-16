@@ -1,0 +1,11 @@
+dodatkowe/
+venv
+animations.py
+controller.py
+file.txt
+new_models.py
+
+.idea
+__pycache__/
+
+stage_background.png
